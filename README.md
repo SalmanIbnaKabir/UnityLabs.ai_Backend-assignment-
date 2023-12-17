@@ -25,9 +25,9 @@ yarn
 yarn run dev
 ```
 
-===========================================
-
 # API Endpoints
+
+### Auth APIs
 
 ```bash
 POST /api/auth/register
