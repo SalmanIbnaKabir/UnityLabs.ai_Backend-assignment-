@@ -25,6 +25,8 @@ yarn
 yarn run dev
 ```
 
+This Project will Run the following Port : http://localhost:5000/
+
 # API Endpoints
 
 ### Auth APIs
