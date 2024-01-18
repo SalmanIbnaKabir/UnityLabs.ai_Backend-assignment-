@@ -29,7 +29,7 @@ This Project will Run the following Port : http://localhost:5000/
 
 # API Endpoints
 
-### Auth APIs
+## Auth APIs
 
 ```bash
 POST /api/auth/register
@@ -64,7 +64,7 @@ Log in a previously registered user and retrieve the authentication token. Provi
 
 ```
 
-### APIs for Buyers
+## APIs for Buyers
 
 Get a list of all sellers
 
@@ -93,7 +93,7 @@ POST /api/buyer/create-order/:seller_id
 
 Create an order for a seller by providing the seller_id in the URL and a list of items in the request body.
 
-### APIs for Sellers
+## APIs for Sellers
 
 Create a catalog
 
